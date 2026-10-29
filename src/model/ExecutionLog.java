@@ -27,6 +27,7 @@ public class ExecutionLog {
     public void clear() {
 
         steps.clear();
+        System.out.println("Hello World");
 
     }
 
